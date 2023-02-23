@@ -1,15 +1,15 @@
 @font-face {
   font-family: 'Regular';
-  src: url('fonts/founders-grotesk-web-regular.woff2') format('woff2'),
-      url('fonts/founders-grotesk-web-regular.woff') format('woff');
+  src: url('fonts/font-regular.woff2') format('woff2'),
+      url('fonts/font-regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Medium';
-  src: url('fonts/founders-grotesk-semibold.woff2') format('woff2'),
-      url('fonts/founders-grotesk-web-medium.woff') format('woff');
+  src: url('fonts/font-semibold.woff2') format('woff2'),
+      url('fonts/font-semibold.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
